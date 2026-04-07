@@ -1,3 +1,4 @@
+#개인과제5
 name = input("이름을 입력하세요: ")
 student_id = input("학번을 입력하세요: ")
 
